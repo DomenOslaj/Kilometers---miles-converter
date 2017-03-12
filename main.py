@@ -1,4 +1,4 @@
-print "Hello! This is a unit converter."
+print "Hello! This is a kilometers to miles converter."
 
 while True:
     kilometers = int ( raw_input ("Tell us the number you want to convert.") )
